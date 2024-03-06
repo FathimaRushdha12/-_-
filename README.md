@@ -1,2 +1,2 @@
-# -_-
-Repository includes 3 CodeAlpha Tasks
+# Simple Banking Application in Java, allowing users to perform key banking operations like deposit, withdrawal, and balance checking
+
